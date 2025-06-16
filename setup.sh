@@ -1,1 +1,1 @@
-nix-shell -p wget git
+nix-shell -p git
