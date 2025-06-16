@@ -1,1 +1,1 @@
-echo "test"
+nix-shell -p wget git
