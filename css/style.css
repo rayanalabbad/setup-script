@@ -11,3 +11,8 @@ body {
     font-weight: 400;
     font-style: normal;
 }
+
+.shell-script-code {
+    background-color: #1B1B25;
+    color: #A3AABD;
+}
